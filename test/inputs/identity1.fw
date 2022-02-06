@@ -1,0 +1,4 @@
+
+(* checking type constraints *)
+let id = (id : all a. a -> a)
+
